@@ -251,7 +251,6 @@ virtualenvwrapper-win
 waitress
 watchdog
 wcwidth
-webcolor
 webencodings
 websocket-client
 Werkzeug
