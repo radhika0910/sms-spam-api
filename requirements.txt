@@ -7,7 +7,6 @@ applicationinsights
 argon2-cffi
 argon2-cffi-bindings
 arrow
-asgiref
 asttokens
 astunparsea
 attrs
