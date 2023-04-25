@@ -31,7 +31,6 @@ azureml-train
 azureml-train-core
 azureml-train-restclients-hyperdrive
 backcall
-backports.tempfile
 backports.weakref==post1
 bcrypt
 beautifulsoup4
