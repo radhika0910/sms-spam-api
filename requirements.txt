@@ -1,6 +1,4 @@
 Django
-docker
-docopt
 entrypoints
 executing
 fastjsonschema
@@ -120,10 +118,6 @@ urllib3
 utils
 uvicorn
 validators
-virtualenv
-virtualenv-clone
-virtualenvwrapper-win
-waitress
 watchdog
 wcwidth
 webencodings
