@@ -1,5 +1,6 @@
 nltk
 scikit-learn
 numpy
+scipy
 flask
 gunicorn
