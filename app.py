@@ -7,7 +7,7 @@ from nltk.corpus import stopwords
 import nltk
 from nltk.stem.porter import PorterStemmer
 from new import transform_text
-from scipy.sparse import csr_array
+
 
 # model1 = pickle.load(open('model1.pkl','rb'))
 tfidf = pickle.load(open('/vectorizer.pkl','rb'))
