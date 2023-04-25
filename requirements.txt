@@ -162,12 +162,6 @@ pure-eval
 pyarrow
 pyasn1
 pyasn1-modules
-PyAudio
-PyAutoGUI
-pycodestyle
-pycparser
-pydeck
-PyGetWindow
 Pygments
 PyJWT
 Pympler
