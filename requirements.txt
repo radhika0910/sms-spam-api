@@ -85,7 +85,7 @@ ImageHash==4.3.1
 imageio==2.22.3
 importlib-metadata==6.6.0
 importlib-resources==5.10.0
-ipykernel==6.19.4
+ipykernel
 ipython==8.8.0
 ipython-genutils==0.2.0
 ipywidgets==8.0.4
